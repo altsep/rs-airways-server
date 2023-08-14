@@ -1,0 +1,139 @@
+{
+  "MAIN": {
+    "SEARCH": "Suchen",
+    "CART": "Wagen",
+    "LOGIN": "Anmeldung",
+    "LOGOUT": "Ausloggen"
+  },
+  "LOGIN_FORM": {
+    "SIGN_UP": "Anmeldung",
+    "LOG_IN": "Anmeldung",
+    "GOOGLE": "Weiter mit Google",
+    "FACEBOOK": "Weiter mit Facebook",
+    "PASSWORD": "Passwort",
+    "EMAIL": "Email",
+    "LOGIN_EMAIL": "oder loggen Sie sich mit Ihrer E-Mail-Adresse ein",
+    "PROCESS": "Wird bearbeitet...",
+    "FORGOT": "Passwort vergessen?",
+    "SIGNUP_EMAIL": "oder melden Sie sich mit Ihrer E-Mail-Adresse an",
+    "FIRST_NAME": "Vorname",
+    "LAST_NAME": "Familienname, Nachname",
+    "DATE": "Datum",
+    "DATE_BIRTH": "Geburtsdatum",
+    "CITIZENSHIP": "Staatsbürgerschaft",
+    "MOBILE_PHONE": "Handynummer",
+    "COUNTRY_CODE": "Landesvorwahl",
+    "MALE": "Männlich",
+    "FEMALE": "Weiblich",
+    "AGREE": "Ich stimme Airway zu",
+    "AND": "Und",
+    "POLICY": "Datenschutz-Bestimmungen",
+    "TERMS": "Nutzungsbedingungen"
+  },
+  "MAIN_FORM": {
+    "PASSENGER": "Passagiere",
+    "ONE_WAY": "Einweg",
+    "ROUND_TRIP": "Rundfahrt",
+    "DATES": "Termine",
+    "DATE": "Datum",
+    "FROM": "Aus",
+    "LABEL_FROM": "Wählen Sie Ihren Start aus",
+    "TO": "Ziel",
+    "LABEL_TO": "Wählen Sie Ihr Ziel"
+  },
+  "HEADER": {
+    "SIGN_IN": "anmelden",
+    "BOOKING": "Flüge buchen",
+    "PROFILE": "Profil",
+    "FLIGHTS": "Flüge",
+    "PASSENGER": "Passagiere",
+    "PAYMENT": "Rezension"
+  },
+  "FOOTER": {
+    "RIGHTS": "Alle Rechte vorbehalten.",
+    "PAYS": "Wir akzeptieren diese Zahlungsarten"
+  },
+  "PASSENGER": {
+    "Adult": "Erwachsene",
+    "Child": "Kinder",
+    "Infant": "Kleinkind"
+  },
+  "BOOKING": {
+    "DEPARTURE": "Abfahrt",
+    "RETURN": "Zurückkehren",
+    "BTN_BACK": "Zurück",
+    "BTN_CONTINUE": "Weitermachen",
+    "NO_FLIGHTS": "Keine Flugdaten gefunden"
+  },
+  "FLIGHTS": {
+    "SELECT": "Wählen",
+    "DIRECT": "Direkte",
+    "CONNECTED": "In Verbindung gebracht",
+    "SEATS": "Sitze",
+    "AVAILABLE": "verfügbar",
+    "PRICE": "Preis",
+    "NO": "Flug Nr."
+  },
+  "PROCESS": {
+    "CONTACT_DETAILS": "Kontaktdaten“",
+    "CONTACT_DETAILS_HINT": "Wir benötigen Kontaktdaten, um Ihnen die neuesten Informationen zu Ihrem Flug liefern zu können.",
+    "PASSENGERS_HINT": "Geben Sie die Namen des Passagiers ein, wie sie im Dokument (Reisepass oder Personalausweis) erscheinen.",
+    "TOOLTIP": "Fügen Sie den Namen des Passagiers so ein, wie er auf seinen Dokumenten (Reisepass oder Personalausweis) steht. Verwenden Sie keine Akzente oder Sonderzeichen. Verwenden Sie keinen Spitznamen.",
+    "ASSISTANCE": "Benötigen Sie besondere Hilfe?",
+    "LUGGAGE": "Gepäck"
+  },
+  "SUMMARY": {
+    "CAPTION": "Zusammenfassung",
+    "BAG_START": "aufgegebenes Gepäckstück (insgesamt",
+    "BAG_END": "kg) inklusive",
+    "CABIN_BAG": "Handgepäck 1 persönlicher Gegenstand (max. 8 kg) inklusive",
+    "SEAT": "Sitz",
+    "ADULT": "Erwachsenentarif",
+    "CHILD": "Kindertarif",
+    "INFANT": "Tarif für Kleinkinder",
+    "FARE": "Fahrpreis",
+    "TAX": "Steuer",
+    "TOTAL": "GESAMT",
+    "BTN_BACK": "Zurück",
+    "BTN_ADD": "Zum Bestellwagen hinzufügen",
+    "BTN_BUY": "Kaufe jetzt"
+  },
+  "CART": {
+    "TOTAL": "Gesamt",
+    "DETAIL": "Detail",
+    "PRICE": "Preis",
+    "PASSENGER": "Passagiere",
+    "DATE_TIME": "Datum",
+    "TYPE_TRIP": "Geben Sie Reise ein",
+    "FLIGHT": "Flug",
+    "HISTORY": "Geschichte",
+    "CART": "Wagen",
+    "EDIT": "Bearbeiten",
+    "DELETE": "Löschen",
+    "ADD_NEW": "Neue Reise hinzufügen",
+    "INPUT": "Promo code",
+    "APPLY": "Anwenden",
+    "SELECTED": "Ausgewählt",
+    "PAYMENT": "Zahlung"
+  },
+  "ERRORS": {
+    "PASSENGER_ADULT": "Wählen Sie mindestens 1 Erwachsenen",
+    "CORRECT_EMAIL": "Bitte geben Sie die richtige E-Mail-Adresse ein",
+    "LENGTH_16": "Der Login darf nicht länger als 16 Zeichen sein",
+    "LENGTH_32": "Der Login darf 32 Zeichen nicht überschreiten",
+    "EXCEED_15": "Darf 15 Ziffern nicht überschreiten",
+    "MUST_HAVE": "Das Passwort muss vorhanden sein ",
+    "MUST": "Haben müssen",
+    "REQUIRED": "Erforderlich",
+    "MUST_LEAST": "Muss mindestens {{length}} Figuren ",
+    "INVALID_CHARACTER": "Ungültiges Zeichen",
+    "INVALID_DATE": "Ungültiges Datum",
+    "SELECT_GENDER": "Geschlecht muss ausgewählt werden",
+    "AGREE_TERMS": "Muss mit den Bedingungen einverstanden sein"
+  },
+  "MISC": {
+    "CURRENCY": "US Dollar",
+    "BTN_EDIT": "Bearbeiten",
+    "BTN_APPLY": "Anwenden"
+  }
+}
