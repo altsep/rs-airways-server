@@ -9,6 +9,8 @@ async function bootstrap() {
 
   app.enableCors();
 
+  app.setGlobalPrefix('api');
+
   const config = new DocumentBuilder()
     .setTitle('Airways backend')
     .setDescription('REST API documentation')

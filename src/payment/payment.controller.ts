@@ -47,7 +47,9 @@ export class PaymentController {
     return this.paymentService.setNewPayment(paymentList, { user: { email } });
   }
 
-  @ApiOperation({ summary: 'Get all payments (without authorization by email)' })
+  @ApiOperation({
+    summary: 'Get all payments (without authorization by email)',
+  })
   @ApiResponse({ status: 201, type: [Payment] })
   @ApiQuery({
     name: 'email',
