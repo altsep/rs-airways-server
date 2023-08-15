@@ -1,13 +1,10 @@
 FROM node:18.16-alpine
 
+EXPOSE ${PORT}
+
 WORKDIR /app
 
-COPY package*.json ./
+COPY src ./src
+COPY package*.json tsconfig.json tsconfig.build.json ./
 
-RUN npm install
-
-COPY . .
-
-COPY ./dist ./dist
-
-CMD ["npm", "run", "start:div"]
+RUN npm ci
